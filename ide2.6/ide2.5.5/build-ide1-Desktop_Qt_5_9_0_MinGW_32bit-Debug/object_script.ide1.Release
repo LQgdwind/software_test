@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\mywidget.o
+./release\brackets.o
+./release\matching.o
+./release\myhighlighter.o
+./release\myeditor.o
+./release\ideeditor.o
+./release\linenumberwidget.o
+./release\moc_mainwindow.o
+./release\moc_matching.o
+./release\moc_myhighlighter.o
+./release\moc_ideeditor.o
+);

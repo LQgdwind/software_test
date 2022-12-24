@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\mywidget.o
+./debug\brackets.o
+./debug\matching.o
+./debug\myhighlighter.o
+./debug\myeditor.o
+./debug\ideeditor.o
+./debug\linenumberwidget.o
+./debug\moc_mainwindow.o
+./debug\moc_matching.o
+./debug\moc_myhighlighter.o
+./debug\moc_ideeditor.o
+);
